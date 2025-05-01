@@ -1,0 +1,9 @@
+.hero{
+  background: linear-gradient(135deg, #5310c6cf, skyblue);
+  height: 32vh;
+  width: 100vw;
+  padding: 10px 15vw;
+  z-index: -1;
+
+
+}

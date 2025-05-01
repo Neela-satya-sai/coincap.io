@@ -1,0 +1,10 @@
+.banner{
+  background: linear-gradient(135deg, #ff4d6d, #b966ff, #6a5cff);
+  width: 100vw;
+  padding: 10px 0px;
+  font-size: medium;
+  text-align: center;
+  position:  ;
+  z-index: 5;
+
+}

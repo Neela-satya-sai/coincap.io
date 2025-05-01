@@ -1,0 +1,14 @@
+.navbar{
+  background-color: rgb(158, 192, 212);
+  position: sticky ;
+  top: 0px;
+  z-index: 10;
+  display: block;
+  width: 100vw;
+  height: 6vh;
+  align-self: center;
+  padding: 10px 15vw;
+  font-size: medium;
+  text-align: center;
+}
+
